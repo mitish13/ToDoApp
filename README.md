@@ -1,7 +1,7 @@
 # ToDoApp
 A Simple Todo application build using expo-cli (React native) ,supported on both android and IOS platform. Note that I have not used any database, So this is just a front end application code.
 
-# Steps to run the application
+## Steps to run the application
 ### 1. Download 'expo app' in your phone. 
 ### 2. Download the zip file e
 ### 3. run below command, it will add node_modules dependecies
