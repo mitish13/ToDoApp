@@ -3,8 +3,8 @@ A Simple Todo application build using expo-cli (React native) ,supported on both
 
 ## Steps to run the application
 ### 1. Download 'expo app' in your phone. 
-### 2. Download the zip file e
-### 3. run below command, it will add node_modules dependecies
+### 2. Download the zip file extract it, move into the project directory using cmd.
+### 3. run below command, it will add node_modules folder to add all dependencies
 ```
 npm install
 ```
